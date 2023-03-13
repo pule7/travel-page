@@ -19,3 +19,37 @@
     top: 200px;
 }
 
+#highlights {
+    background: linear-gradient(45deg, rgb(111, 228, 228), rgb(29, 164, 198));
+}
+
+#highlights h2 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+#destinations {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 40px;
+    /* box-sizing: border-box;
+    width: 100%; */
+}
+
+
+.destination {
+    padding: 20px;
+}
+
+.destination img {
+    height: 200px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+    /* width: 200px; */
+    /* box-sizing: border-box; */
+}
+
