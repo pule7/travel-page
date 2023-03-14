@@ -45,3 +45,13 @@ header a {
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
 
 }
+
+footer {
+    background-color: rgb(25, 23, 23);
+    text-align: center;
+}
+
+footer img {
+    height: 70px;
+    padding: 30px;
+}
